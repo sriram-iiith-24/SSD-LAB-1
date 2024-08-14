@@ -1,0 +1,5 @@
+101,Goku,DBZ,88000
+102,Saitama,One Punch Man,83000
+103,Gojo,JJK,57000
+104,Luffy,One Piece,64000
+105,Ichigo,Bleach,43000
